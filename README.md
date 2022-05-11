@@ -7,11 +7,6 @@
 
 <h3> Connect with me <a href="https://www.linkedin.com/in/leticia-anastacio-56a98b45/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a> </h3>
 
-<h1>
-  
-  
-</h1>
-
 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="left"> 
