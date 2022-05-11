@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Letgis
 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Leticia.
+  
 - For me, a person's value is constantly improving, and never getting inside of a box complaining about everything without doing something to make things better.
 
 
