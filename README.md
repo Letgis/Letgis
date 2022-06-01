@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Leticia, nice to see you here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </h1>
+<h1 align="center"> Hi, I'm Leticia, nice to see you here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> </h1>
 
 <h5 align="center"> - For me, a person's value is constantly improving, and never getting inside of a box complaining about everything without doing something to make things better. </h5>
 
