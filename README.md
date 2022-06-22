@@ -37,6 +37,9 @@
 <h1 align="center">Badges</h1>
   
 <!--START_SECTION:badges-->
+[![Earning Advocacy Practitioner](https://images.credly.com/size/100x100/images/2362d8c0-d4f4-4914-90ce-2c9e1252544a/Earning-Advocacy-Practitioner.png)](http://www.credly.com/badges/19c23ef8-b08a-4539-9f06-2133f2a52587 "Earning Advocacy Practitioner")
+[![IBM Agile Advocate](https://images.credly.com/size/100x100/images/00cfeff7-03d2-4c00-b129-d2c09ca39831/IBM-Agile-Advocate.png)](http://www.credly.com/badges/47c8630d-6650-48f2-a1c9-3f617280b883 "IBM Agile Advocate")
+[![IBM Agile Explorer](https://images.credly.com/size/100x100/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/69d5c416-2f8a-4660-85bd-bc9e2fc3af8a "IBM Agile Explorer")
 <!--END_SECTION:badges-->
 
 
